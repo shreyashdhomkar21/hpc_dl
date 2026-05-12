@@ -1,6 +1,6 @@
-## hpc_dl
+# hpc_dl
 
-hpc -  runing command 
+## hpc -  runing command 
 
 cd "Desktop"
 
