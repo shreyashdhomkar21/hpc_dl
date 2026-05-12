@@ -1,8 +1,11 @@
 # hpc_dl
 
 hpc -  runing command 
+
 cd "Desktop"
+
 g++ HPC-BFS.cpp -o bfs
+
 .\bfs
 
 hpc - tital 
