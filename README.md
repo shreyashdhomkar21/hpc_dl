@@ -22,3 +22,17 @@ g++ HPC-BFS.cpp -o bfs
    
 6. Write a CUDA Program for Addition of two large vectors
 
+
+## Dl - tital
+
+1.  Linear regression by using Deep Neural network: Implement Boston housing price prediction problem by Linear regression using Deep Neural network. Use Boston House price prediction dataset. 
+    
+2. Classification using Deep neural network. Binary classification using Deep Neural Networks.
+( Binary classification using Deep Neural Networks Example: Classify movie reviews into 
+positive" reviews and "negative" reviews, just based on the text content of the reviews. 
+Use IMDB dataset )
+
+3. Convolutional neural network (CNN). 
+   Use MNIST Fashion Dataset and create a classifier to classify fashion clothing into categories. 
+
+
